@@ -1,0 +1,5 @@
+Django==2.2.2 -i https://pypi.tuna.tsinghua.edu.cn/simple
+djangorestframework==3.10.1 -i https://pypi.tuna.tsinghua.edu.cn/simple
+Pillow==6.2.1 -i https://pypi.tuna.tsinghua.edu.cn/simple
+pytz==2019.1 -i https://pypi.tuna.tsinghua.edu.cn/simple
+sqlparse==0.3.0 -i https://pypi.tuna.tsinghua.edu.cn/simple
